@@ -1,0 +1,2 @@
+# Wordlists
+Wordlists for Fuzzing
