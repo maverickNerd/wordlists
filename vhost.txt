@@ -1,18 +1,14 @@
-%s
 127.0.0.1
 about
 admin
-admin.%s
 admin01
 admin10
 administration
-administration.%s
 administrator
 ads
 adserver
 alerts
 alpha
-alpha.%s
 ap
 apache
 api
@@ -23,7 +19,6 @@ aptest
 auth
 backup
 beta
-beta.%s
 blog
 blogadmin
 cdn
@@ -38,10 +33,8 @@ database
 db
 demo
 dev
-dev.%s
 devel
 development
-development.%s
 devsql
 devtest
 dhcp
@@ -87,7 +80,6 @@ localhost
 log
 lol
 m
-m.%s
 mail
 mail2
 mail3
@@ -97,7 +89,6 @@ manage
 mgmt
 mirror
 mobile
-mobile.%s
 monitor
 mssql
 mta
@@ -114,7 +105,6 @@ ns2
 ns3
 ntp
 old
-old.%s
 ops
 oracle
 owa
@@ -123,7 +113,6 @@ phone
 portal
 s3
 secure
-secure.%s
 server
 sharepoint
 shop
@@ -135,10 +124,8 @@ ssh
 ssl
 stage
 staging
-staging.%s
 stats
 status
-status.%s
 svn
 syslog
 test
@@ -147,14 +134,10 @@ test2
 tester
 testing
 uat
-uat.%s
 upload
 v1
-v1.%s
 v2
-v2.%s
 v3
-v3.%s
 vm
 vmm
 vnc
@@ -166,6 +149,5 @@ webmail
 whois
 wiki
 www
-www.%s
 www2
 xml
